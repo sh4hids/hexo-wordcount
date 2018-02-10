@@ -1,10 +1,11 @@
 {
-  "name": "hexo-wordcount",
+  "name": "hexo-wordcount-bengali",
   "version": "3.0.2",
-  "description": "Post Word Count Plugin of Hexo.",
+  "description": "Bengali Post Word Count Plugin of Hexo.",
   "main": "index",
   "engines": {
-    "node": ">= 7.6.0"
+    "node": ">= 0.10.0",
+    "iojs": ">= 1.6.0"
   },
   "scripts": {
     "test": "gulp test"
@@ -12,24 +13,20 @@
   "directories": {
     "lib": "./lib"
   },
-  "engines": {
-    "node": ">= 0.10.0",
-    "iojs": ">= 1.6.0"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/willin/hexo-wordcount.git"
+    "url": "git+https://github.com/sh4hids/hexo-wordcount.git"
   },
-  "homepage": "https://github.com/willin/hexo-wordcount",
+  "homepage": "https://github.com/sh4hids/hexo-wordcount",
   "keywords": [
     "hexo",
     "wordcount",
     "count"
   ],
   "author": {
-    "name": "Willin Wang",
-    "email": "willin@willin.org",
-    "url": "http://willin.wang"
+    "name": "Shahidul Islam Majumder",
+    "email": "hello@shahids.me",
+    "url": "http://shahids.me"
   },
   "license": "MIT",
   "dependencies": {
