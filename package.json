@@ -1,6 +1,6 @@
 {
   "name": "hexo-wordcount-bengali",
-  "version": "3.0.2",
+  "version": "1.0.0",
   "description": "Bengali Post Word Count Plugin of Hexo.",
   "main": "index",
   "engines": {
